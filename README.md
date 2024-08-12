@@ -1,11 +1,11 @@
 # Halo semua! 
 
-Perkenalkan nama ku **Muhammad Faris Akbar**.<br>
+Nama ku **Muhammad Faris Akbar**.<br>
+Aku adalah seorang **Mahasiswa** di Universitas Ahmad Dahlan, Yogyakarta. Program studi **Teknik Informatika**.<br>
 
-Aku adalah seorang **Mahasiswa** di Universitas Ahmad Dahlan, Yogyakarta. Program studi Informatika Semester 6.<br>
+Aku memiliki minat untuk bekerja di bidang data dan machine learning.
+Aku memiliki pengalaman bekerja dan belajar di bidang tersebut diantaranya :
+1. Project manager Bangkit Academy 2024 Batch 1
+2. Praktikum assistant untuk mata kuliah Basis Data
 
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>
-
-Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilang-adhan/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/m-faris-akbar-/)ku ya.
