@@ -1,8 +1,7 @@
 ### Hi! 👋 Aku Faris.
 
 **Mahasiswa** di Universitas Ahmad Dahlan, Yogyakarta. Program studi **Teknik Informatika**.<br>
-Aku memiliki minat untuk bekerja di bidang data dan machine learning.
-Aku memiliki pengalaman bekerja dan belajar di bidang tersebut diantaranya :
+Aku memiliki minat untuk berkarir di bidang data dan machine learning. Dengan pengalaman belajar dan bekerja di bidang tersebut diantaranya :
 1. Project manager Bangkit Academy 2024 Batch 1
 2. Praktikum assistant untuk mata kuliah Basis Data
 
