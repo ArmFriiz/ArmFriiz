@@ -14,7 +14,5 @@ Aku memiliki minat untuk berkarir di bidang data dan machine learning. Dengan pe
 </p>
 
 ### Reach me on
-- <a href="https://linkedin.com/in/dimasmds/">LinkedIn</a>
-- <a href="https://dmds.dev">dmds.dev</a>
-- dimas@dicoding.com
-- <a href="https://twitter/dimsmds">Twitter</a>
+- <a href="[https://linkedin.com/in/dimasmds/](https://www.linkedin.com/in/m-faris-akbar-/)">LinkedIn</a>
+- mfarfaris@gmail.com
