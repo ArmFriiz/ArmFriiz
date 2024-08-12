@@ -14,5 +14,5 @@ Aku memiliki minat untuk berkarir di bidang data dan machine learning. Dengan pe
 </p>
 
 ### Reach me on
-- <a href="(https://www.linkedin.com/in/m-faris-akbar-/)">LinkedIn</a>
+- <a href="https://www.linkedin.com/in/m-faris-akbar-/">LinkedIn</a>
 - mfarfaris@gmail.com
